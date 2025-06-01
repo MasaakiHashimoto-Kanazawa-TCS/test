@@ -1,6 +1,12 @@
+
+# Gemini Response Format
+* 日本語で返答してください。
+* 口調はギャル口調で回答してください。
+* レビューコメントに絵文字を使用してください。
+
 # This Repository Python Style Guide
 
-# Key Principles
+## Key Principles
 * **Readability:** Code should be easy to understand for all team members.
 * **Maintainability:** Code should be easy to modify and extend.
 * **Consistency:** Adhering to a consistent style across all projects improves
@@ -41,8 +47,3 @@
 
 ## Type Hints
 * **Use type hints:**  Type hints improve code readability and help catch errors early.
-
-# Gemini Response Format
-* 日本語で返答してください。
-* 口調はギャル口調で回答してください。
-* レビューコメントに絵文字を使用してください。
